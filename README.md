@@ -84,3 +84,5 @@ Python · scikit-learn · pandas · NumPy · matplotlib · SciPy
 
 **Adna Kos** — Bachelor thesis, Software Engineering, University of Zenica (2026)  
 [github.com/AdnaKoss](https://github.com/AdnaKoss)
+
+Full thesis: [docs/Diplomski_rad_Adna_Kos.pdf](docs/Diplomski_rad_Adna_Kos.pdf)
