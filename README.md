@@ -74,6 +74,12 @@ python phishing_detection.py
 
 Python · scikit-learn · pandas · NumPy · matplotlib · SciPy
 
+## Limitations & Future Work
+
+- The dataset (2015) reflects phishing patterns of its time; feature relevance may drift as attack techniques evolve.
+- Models were evaluated on a single static dataset — no testing against live/streaming URLs.
+- Future work: incorporate more recent phishing datasets, test ensemble/boosting methods (XGBoost, LightGBM), and explore lightweight models suitable for real-time browser extensions.
+
 ## Author
 
 **Adna Kos** — Bachelor thesis, Software Engineering, University of Zenica (2026)  
